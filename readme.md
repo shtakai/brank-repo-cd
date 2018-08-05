@@ -1,6 +1,9 @@
 this is readme 2016/05/02.
 
 #Lorem ipsum
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/brank-repo-cd.svg)](https://www.guardrails.io)
+
 >Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
